@@ -1,0 +1,1602 @@
+[
+  {
+    "qid": "hp9",
+    "difficulty": "easy",
+    "question": "What is the capital of the country where the Eiffel Tower is located?",
+    "gold_answer": "Paris",
+    "context": [
+      {
+        "title": "Eiffel Tower",
+        "text": "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France."
+      },
+      {
+        "title": "France",
+        "text": "Paris is the capital and most populous city of France."
+      }
+    ]
+  },
+  {
+    "qid": "hp10",
+    "difficulty": "medium",
+    "question": "What element makes up the majority of the atmosphere of the planet nicknamed the 'Red Planet'?",
+    "gold_answer": "Carbon dioxide",
+    "context": [
+      {
+        "title": "Red Planet",
+        "text": "Mars is often referred to as the 'Red Planet'."
+      },
+      {
+        "title": "Atmosphere of Mars",
+        "text": "The atmosphere of Mars is about 95% carbon dioxide."
+      }
+    ]
+  },
+  {
+    "qid": "hp11",
+    "difficulty": "hard",
+    "question": "In which city was the painter of 'The Starry Night' living when he created the work?",
+    "gold_answer": "Saint-Rémy-de-Provence",
+    "context": [
+      {
+        "title": "The Starry Night",
+        "text": "The Starry Night is an oil-on-canvas painting by the Dutch Post-Impressionist painter Vincent van Gogh."
+      },
+      {
+        "title": "Vincent van Gogh",
+        "text": "Van Gogh painted The Starry Night while staying at the Saint-Paul-de-Mausole asylum in Saint-Rémy-de-Provence."
+      }
+    ]
+  },
+  {
+    "qid": "hp12",
+    "difficulty": "medium",
+    "question": "What is the currency of the country where the Great Pyramid of Giza is located?",
+    "gold_answer": "Egyptian pound",
+    "context": [
+      {
+        "title": "Great Pyramid of Giza",
+        "text": "The Great Pyramid of Giza is the largest Egyptian pyramid and is located in Egypt."
+      },
+      {
+        "title": "Egypt",
+        "text": "The official currency of Egypt is the Egyptian pound."
+      }
+    ]
+  },
+  {
+    "qid": "hp13",
+    "difficulty": "easy",
+    "question": "What color is the cross on the national flag of the country where the Nobel Peace Prize is awarded?",
+    "gold_answer": "White",
+    "context": [
+      {
+        "title": "Nobel Peace Prize",
+        "text": "The Nobel Peace Prize is awarded in Oslo, Norway."
+      },
+      {
+        "title": "Flag of Norway",
+        "text": "The flag of Norway is red with an indigo blue cross outlined in white."
+      }
+    ]
+  },
+  {
+    "qid": "hp14",
+    "difficulty": "medium",
+    "question": "What is the name of the ship that carried the pilgrims to the colony founded in 1620?",
+    "gold_answer": "Mayflower",
+    "context": [
+      {
+        "title": "Plymouth Colony",
+        "text": "Plymouth Colony was founded in 1620 by a group of English Separatists known as Pilgrims."
+      },
+      {
+        "title": "Pilgrims",
+        "text": "The Pilgrims traveled to the New World aboard the ship Mayflower."
+      }
+    ]
+  },
+  {
+    "qid": "hp15",
+    "difficulty": "hard",
+    "question": "Which archipelago is the habitat of the giant tortoise named 'Lonesome George'?",
+    "gold_answer": "Galápagos Islands",
+    "context": [
+      {
+        "title": "Lonesome George",
+        "text": "Lonesome George was a male Pinta Island tortoise, a subspecies from the Galápagos Islands."
+      },
+      {
+        "title": "Galápagos Islands",
+        "text": "The Galápagos Islands are an archipelago of volcanic islands distributed on either side of the equator in the Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp16",
+    "difficulty": "medium",
+    "question": "What type of mammal is the animal that appears on the logo of the World Wildlife Fund?",
+    "gold_answer": "Giant panda",
+    "context": [
+      {
+        "title": "World Wildlife Fund",
+        "text": "The World Wildlife Fund (WWF) uses a giant panda as its logo."
+      },
+      {
+        "title": "Giant panda",
+        "text": "The giant panda is a bear, which is a species of mammal native to south-central China."
+      }
+    ]
+  },
+  {
+    "qid": "hp17",
+    "difficulty": "easy",
+    "question": "In which city did the band 'The Beatles' originate?",
+    "gold_answer": "Liverpool",
+    "context": [
+      {
+        "title": "The Beatles",
+        "text": "The Beatles were an English rock band formed in Liverpool in 1960."
+      },
+      {
+        "title": "Liverpool",
+        "text": "Liverpool is a city in Merseyside, England, famously known as the birthplace of The Beatles."
+      }
+    ]
+  },
+  {
+    "qid": "hp18",
+    "difficulty": "hard",
+    "question": "Which sea is located to the east of the country where the philosopher Aristotle was born?",
+    "gold_answer": "Aegean Sea",
+    "context": [
+      {
+        "title": "Aristotle",
+        "text": "Aristotle was born in Stagira, a city in Ancient Greece."
+      },
+      {
+        "title": "Greece",
+        "text": "Greece is bordered by the Aegean Sea to the east."
+      }
+    ]
+  },
+  {
+    "qid": "hp19",
+    "difficulty": "medium",
+    "question": "What is the primary ingredient of the dish 'Hummus' which is popular in the Levant region?",
+    "gold_answer": "Chickpeas",
+    "context": [
+      {
+        "title": "Hummus",
+        "text": "Hummus is a Middle Eastern dip made from cooked, mashed chickpeas blended with tahini, lemon juice, and garlic."
+      },
+      {
+        "title": "Chickpeas",
+        "text": "Chickpeas are a legume of the family Fabaceae and are the main component of hummus."
+      }
+    ]
+  },
+  {
+    "qid": "hp20",
+    "difficulty": "easy",
+    "question": "What year did the man who gave the 'I Have a Dream' speech win the Nobel Peace Prize?",
+    "gold_answer": "1964",
+    "context": [
+      {
+        "title": "I Have a Dream",
+        "text": "The 'I Have a Dream' speech was delivered by Martin Luther King Jr. in 1963."
+      },
+      {
+        "title": "Martin Luther King Jr.",
+        "text": "Martin Luther King Jr. was awarded the Nobel Peace Prize in 1964."
+      }
+    ]
+  },
+  {
+    "qid": "hp21",
+    "difficulty": "medium",
+    "question": "Which layer of the Earth is located directly below the crust?",
+    "gold_answer": "Mantle",
+    "context": [
+      {
+        "title": "Earth's Crust",
+        "text": "The crust is the outermost solid shell of Earth."
+      },
+      {
+        "title": "Mantle",
+        "text": "The mantle is the layer of the Earth that lies between the crust and the core."
+      }
+    ]
+  },
+  {
+    "qid": "hp22",
+    "difficulty": "hard",
+    "question": "What was the name of the father of the queen who reigned during the Spanish Armada's defeat?",
+    "gold_answer": "Henry VIII",
+    "context": [
+      {
+        "title": "Spanish Armada",
+        "text": "The Spanish Armada was defeated by the English fleet under Queen Elizabeth I in 1588."
+      },
+      {
+        "title": "Elizabeth I",
+        "text": "Elizabeth I was the daughter of King Henry VIII and Anne Boleyn."
+      }
+    ]
+  },
+  {
+    "qid": "hp23",
+    "difficulty": "medium",
+    "question": "What is the chemical symbol for the metal that is the main component of steel?",
+    "gold_answer": "Fe",
+    "context": [
+      {
+        "title": "Steel",
+        "text": "Steel is an alloy of iron and carbon."
+      },
+      {
+        "title": "Iron",
+        "text": "Iron is a chemical element with the symbol Fe."
+      }
+    ]
+  },
+  {
+    "qid": "hp24",
+    "difficulty": "easy",
+    "question": "Which country is the home of the kangaroo?",
+    "gold_answer": "Australia",
+    "context": [
+      {
+        "title": "Kangaroo",
+        "text": "The kangaroo is a marsupial from the family Macropodidae, indigenous to Australia."
+      },
+      {
+        "title": "Australia",
+        "text": "Australia is a sovereign country comprising the mainland of the Australian continent and several islands."
+      }
+    ]
+  },
+  {
+    "qid": "hp25",
+    "difficulty": "hard",
+    "question": "Which strait separates the country where the Taj Mahal is located from the island nation of Sri Lanka?",
+    "gold_answer": "Palk Strait",
+    "context": [
+      {
+        "title": "Taj Mahal",
+        "text": "The Taj Mahal is an ivory-white marble mausoleum in Agra, India."
+      },
+      {
+        "title": "India",
+        "text": "The Palk Strait is a strait between the Tamil Nadu state of India and the Mannar district of Sri Lanka."
+      }
+    ]
+  },
+  {
+    "qid": "hp26",
+    "difficulty": "medium",
+    "question": "What is the name of the protagonist in the novel written by Mary Shelley?",
+    "gold_answer": "Victor Frankenstein",
+    "context": [
+      {
+        "title": "Mary Shelley",
+        "text": "Mary Shelley was the author of the Gothic novel Frankenstein."
+      },
+      {
+        "title": "Frankenstein",
+        "text": "The novel tells the story of Victor Frankenstein, a scientist who creates a sapient creature."
+      }
+    ]
+  },
+  {
+    "qid": "hp27",
+    "difficulty": "easy",
+    "question": "What is the tallest building in the world as of 2024, located in Dubai?",
+    "gold_answer": "Burj Khalifa",
+    "context": [
+      {
+        "title": "Dubai",
+        "text": "Dubai is the most populous city in the United Arab Emirates and home to the Burj Khalifa."
+      },
+      {
+        "title": "Burj Khalifa",
+        "text": "The Burj Khalifa has been the tallest structure and building in the world since its topping out in 2009."
+      }
+    ]
+  },
+  {
+    "qid": "hp28",
+    "difficulty": "medium",
+    "question": "What is the official language of the country that hosts the headquarters of the African Union?",
+    "gold_answer": "Amharic",
+    "context": [
+      {
+        "title": "African Union",
+        "text": "The African Union is headquartered in Addis Ababa, Ethiopia."
+      },
+      {
+        "title": "Ethiopia",
+        "text": "Amharic is the working language of the federal government of Ethiopia."
+      }
+    ]
+  },
+  {
+    "qid": "hp29",
+    "difficulty": "hard",
+    "question": "Which physicist developed the theory of general relativity and was born in the German Empire?",
+    "gold_answer": "Albert Einstein",
+    "context": [
+      {
+        "title": "General relativity",
+        "text": "General relativity is the geometric theory of gravitation published by Albert Einstein in 1915."
+      },
+      {
+        "title": "Albert Einstein",
+        "text": "Albert Einstein was a German-born theoretical physicist."
+      }
+    ]
+  },
+  {
+    "qid": "hp30",
+    "difficulty": "medium",
+    "question": "What is the capital of the state where the Grand Canyon is located?",
+    "gold_answer": "Phoenix",
+    "context": [
+      {
+        "title": "Grand Canyon",
+        "text": "The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona."
+      },
+      {
+        "title": "Arizona",
+        "text": "Phoenix is the capital city of the U.S. state of Arizona."
+      }
+    ]
+  },
+  {
+    "qid": "hp31",
+    "difficulty": "easy",
+    "question": "What fruit is used to make the wine 'Champagne'?",
+    "gold_answer": "Grapes",
+    "context": [
+      {
+        "title": "Champagne",
+        "text": "Champagne is a sparkling wine produced from grapes grown in the Champagne region of France."
+      },
+      {
+        "title": "Wine",
+        "text": "Wine is an alcoholic drink typically made from fermented grapes."
+      }
+    ]
+  },
+  {
+    "qid": "hp32",
+    "difficulty": "hard",
+    "question": "Which dynasty was ruling China when the Great Wall was largely rebuilt in its current form?",
+    "gold_answer": "Ming Dynasty",
+    "context": [
+      {
+        "title": "Great Wall of China",
+        "text": "The best-known sections of the wall were built by the Ming Dynasty (1368–1644)."
+      },
+      {
+        "title": "Ming Dynasty",
+        "text": "The Ming Dynasty was the ruling dynasty of China from 1368 to 1644."
+      }
+    ]
+  },
+  {
+    "qid": "hp33",
+    "difficulty": "medium",
+    "question": "What type of celestial body is Ceres, located in the asteroid belt?",
+    "gold_answer": "Dwarf planet",
+    "context": [
+      {
+        "title": "Ceres",
+        "text": "Ceres is the largest object in the main asteroid belt that lies between the orbits of Mars and Jupiter."
+      },
+      {
+        "title": "Classification of Ceres",
+        "text": "Ceres is classified as a dwarf planet, the only one located in the inner Solar System."
+      }
+    ]
+  },
+  {
+    "qid": "hp34",
+    "difficulty": "easy",
+    "question": "Who was the first President of the United States?",
+    "gold_answer": "George Washington",
+    "context": [
+      {
+        "title": "United States",
+        "text": "The United States of America is a country in North America."
+      },
+      {
+        "title": "George Washington",
+        "text": "George Washington served as the first president of the United States from 1789 to 1797."
+      }
+    ]
+  },
+  {
+    "qid": "hp35",
+    "difficulty": "hard",
+    "question": "What is the name of the desert located in the country that contains the ruins of Chichen Itza?",
+    "gold_answer": "Sonoran Desert",
+    "context": [
+      {
+        "title": "Chichen Itza",
+        "text": "Chichen Itza was a large pre-Columbian city built by the Maya people in Mexico."
+      },
+      {
+        "title": "Mexico",
+        "text": "The Sonoran Desert is a North American desert which covers large parts of Northwestern Mexico."
+      }
+    ]
+  },
+  {
+    "qid": "hp36",
+    "difficulty": "medium",
+    "question": "What is the atomic number of the element with the symbol 'O'?",
+    "gold_answer": "8",
+    "context": [
+      {
+        "title": "Oxygen",
+        "text": "Oxygen is a chemical element with the symbol O."
+      },
+      {
+        "title": "Chemical element O",
+        "text": "Oxygen has the atomic number 8."
+      }
+    ]
+  },
+  {
+    "qid": "hp37",
+    "difficulty": "easy",
+    "question": "Which ocean is the largest on Earth?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Ocean",
+        "text": "An ocean is a body of water that composes much of a planet's hydrosphere."
+      },
+      {
+        "title": "Pacific Ocean",
+        "text": "The Pacific Ocean is the largest and deepest of Earth's five oceanic divisions."
+      }
+    ]
+  },
+  {
+    "qid": "hp38",
+    "difficulty": "hard",
+    "question": "What is the name of the tectonic plate that meets the North American Plate at the San Andreas Fault?",
+    "gold_answer": "Pacific Plate",
+    "context": [
+      {
+        "title": "San Andreas Fault",
+        "text": "The San Andreas Fault is a continental transform fault that extends roughly 1,200 km through California."
+      },
+      {
+        "title": "Tectonic Plates",
+        "text": "The San Andreas Fault forms the tectonic boundary between the Pacific Plate and the North American Plate."
+      }
+    ]
+  },
+  {
+    "qid": "hp39",
+    "difficulty": "medium",
+    "question": "What was the nationality of the explorer who first circumnavigated the globe?",
+    "gold_answer": "Portuguese",
+    "context": [
+      {
+        "title": "Circumnavigation",
+        "text": "The first circumnavigation of the Earth was the Magellan-Elcano expedition led by Ferdinand Magellan."
+      },
+      {
+        "title": "Ferdinand Magellan",
+        "text": "Ferdinand Magellan was a Portuguese explorer who organized the Spanish expedition to the East Indies."
+      }
+    ]
+  },
+  {
+    "qid": "hp40",
+    "difficulty": "easy",
+    "question": "What is the main ingredient of the Japanese dish 'Sushi'?",
+    "gold_answer": "Rice",
+    "context": [
+      {
+        "title": "Sushi",
+        "text": "Sushi is a traditional Japanese dish of prepared vinegared rice, usually with some sugar and salt."
+      },
+      {
+        "title": "Rice",
+        "text": "Rice is the seed of the grass species Oryza sativa and is the staple food in sushi."
+      }
+    ]
+  },
+  {
+    "qid": "hp41",
+    "difficulty": "medium",
+    "question": "Which planet in the solar system has the most prominent rings?",
+    "gold_answer": "Saturn",
+    "context": [
+      {
+        "title": "Planetary rings",
+        "text": "Planetary rings are rings of cosmic dust and other small particles orbiting a planet."
+      },
+      {
+        "title": "Saturn",
+        "text": "Saturn is most famous for its large and prominent ring system."
+      }
+    ]
+  },
+  {
+    "qid": "hp42",
+    "difficulty": "hard",
+    "question": "What is the name of the river that flows through the city where the headquarters of the United Nations is located?",
+    "gold_answer": "East River",
+    "context": [
+      {
+        "title": "United Nations",
+        "text": "The headquarters of the United Nations is located in New York City."
+      },
+      {
+        "title": "New York City",
+        "text": "The UN headquarters stands in the Turtle Bay neighborhood of Manhattan, overlooking the East River."
+      }
+    ]
+  },
+  {
+    "qid": "hp43",
+    "difficulty": "medium",
+    "question": "Which vitamin is produced by the human body when exposed to sunlight?",
+    "gold_answer": "Vitamin D",
+    "context": [
+      {
+        "title": "Sunlight",
+        "text": "Sunlight is a portion of the electromagnetic radiation given off by the Sun."
+      },
+      {
+        "title": "Vitamin D",
+        "text": "Vitamin D is a group of fat-soluble secosteroids responsible for increasing intestinal absorption of calcium, often synthesized in the skin when exposed to UV light."
+      }
+    ]
+  },
+  {
+    "qid": "hp44",
+    "difficulty": "easy",
+    "question": "In which country was the game of 'Cricket' invented?",
+    "gold_answer": "England",
+    "context": [
+      {
+        "title": "Cricket",
+        "text": "Cricket is a bat-and-ball game played between two teams of eleven players on a field."
+      },
+      {
+        "title": "Origin of Cricket",
+        "text": "Cricket originated in south-east England sometime in the 16th century."
+      }
+    ]
+  },
+  {
+    "qid": "hp45",
+    "difficulty": "hard",
+    "question": "What is the name of the strait that separates the United Kingdom from France?",
+    "gold_answer": "English Channel",
+    "context": [
+      {
+        "title": "France",
+        "text": "France is a country in Western Europe."
+      },
+      {
+        "title": "English Channel",
+        "text": "The English Channel is an arm of the Atlantic Ocean that separates Southern England from northern France."
+      }
+    ]
+  },
+  {
+    "qid": "hp46",
+    "difficulty": "medium",
+    "question": "What is the chemical formula for common table salt?",
+    "gold_answer": "NaCl",
+    "context": [
+      {
+        "title": "Table salt",
+        "text": "Table salt is a mineral composed primarily of sodium chloride."
+      },
+      {
+        "title": "Sodium chloride",
+        "text": "Sodium chloride is an ionic compound with the chemical formula NaCl."
+      }
+    ]
+  },
+  {
+    "qid": "hp47",
+    "difficulty": "easy",
+    "question": "Which animal is known as the 'King of the Jungle'?",
+    "gold_answer": "Lion",
+    "context": [
+      {
+        "title": "Lion",
+        "text": "The lion is a species in the family Felidae and a member of the genus Panthera."
+      },
+      {
+        "title": "King of the Jungle",
+        "text": "The lion is often called the 'King of the Jungle', although they primarily live in grasslands and savannas."
+      }
+    ]
+  },
+  {
+    "qid": "hp48",
+    "difficulty": "hard",
+    "question": "Which language is the root of most scientific names in biology?",
+    "gold_answer": "Latin",
+    "context": [
+      {
+        "title": "Scientific names",
+        "text": "Biological nomenclature is the formal system of naming species of living things."
+      },
+      {
+        "title": "Latin in Biology",
+        "text": "Scientific names are often referred to as 'Latin names' because they are derived from Latin and Greek roots."
+      }
+    ]
+  },
+  {
+    "qid": "hp49",
+    "difficulty": "medium",
+    "question": "What is the largest organ of the human body?",
+    "gold_answer": "Skin",
+    "context": [
+      {
+        "title": "Human body",
+        "text": "The human body is the entire structure of a human being."
+      },
+      {
+        "title": "Skin",
+        "text": "The skin is the largest organ of the integumentary system and the largest organ in the human body."
+      }
+    ]
+  },
+  {
+    "qid": "hp50",
+    "difficulty": "easy",
+    "question": "What was the name of the first artificial satellite launched into space?",
+    "gold_answer": "Sputnik 1",
+    "context": [
+      {
+        "title": "Satellite",
+        "text": "A satellite is an object that has been intentionally placed into orbit."
+      },
+      {
+        "title": "Sputnik 1",
+        "text": "Sputnik 1 was the first artificial Earth satellite, launched by the Soviet Union in 1957."
+      }
+    ]
+  },
+  {
+    "qid": "hp51",
+    "difficulty": "medium",
+    "question": "Which gas do plants absorb during the process of photosynthesis?",
+    "gold_answer": "Carbon dioxide",
+    "context": [
+      {
+        "title": "Photosynthesis",
+        "text": "Photosynthesis is the process by which green plants use sunlight to synthesize nutrients from carbon dioxide and water."
+      },
+      {
+        "title": "Carbon dioxide",
+        "text": "Plants take in carbon dioxide ($CO_2$) and release oxygen during photosynthesis."
+      }
+    ]
+  },
+  {
+    "qid": "hp52",
+    "difficulty": "hard",
+    "question": "What is the name of the mountain range that separates Europe from Asia in Russia?",
+    "gold_answer": "Ural Mountains",
+    "context": [
+      {
+        "title": "Russia",
+        "text": "Russia is the largest country in the world, spanning Eastern Europe and Northern Asia."
+      },
+      {
+        "title": "Ural Mountains",
+        "text": "The Ural Mountains are a mountain range that runs approximately from north to south through western Russia, forming the boundary between Europe and Asia."
+      }
+    ]
+  },
+  {
+    "qid": "hp53",
+    "difficulty": "medium",
+    "question": "What is the name of the first woman to win a Nobel Prize?",
+    "gold_answer": "Marie Curie",
+    "context": [
+      {
+        "title": "Nobel Prize",
+        "text": "The Nobel Prize is a set of annual international awards bestowed in several categories."
+      },
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie was the first woman to win a Nobel Prize and the only woman to win it twice in different fields."
+      }
+    ]
+  },
+  {
+    "qid": "hp54",
+    "difficulty": "easy",
+    "question": "What is the capital of Japan?",
+    "gold_answer": "Tokyo",
+    "context": [
+      {
+        "title": "Japan",
+        "text": "Japan is an island country in East Asia."
+      },
+      {
+        "title": "Tokyo",
+        "text": "Tokyo is the capital and largest city of Japan."
+      }
+    ]
+  },
+  {
+    "qid": "hp55",
+    "difficulty": "hard",
+    "question": "In which city is the headquarters of the International Court of Justice located?",
+    "gold_answer": "The Hague",
+    "context": [
+      {
+        "title": "International Court of Justice",
+        "text": "The ICJ is the principal judicial organ of the United Nations."
+      },
+      {
+        "title": "The Hague",
+        "text": "The International Court of Justice is seated at the Peace Palace in The Hague, Netherlands."
+      }
+    ]
+  },
+  {
+    "qid": "hp56",
+    "difficulty": "medium",
+    "question": "What is the most abundant gas in the Earth's atmosphere?",
+    "gold_answer": "Nitrogen",
+    "context": [
+      {
+        "title": "Atmosphere",
+        "text": "The atmosphere of Earth is the layer of gases surrounding the planet."
+      },
+      {
+        "title": "Gases in atmosphere",
+        "text": "Nitrogen makes up about 78% of Earth's atmosphere."
+      }
+    ]
+  },
+  {
+    "qid": "hp57",
+    "difficulty": "easy",
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "gold_answer": "William Shakespeare",
+    "context": [
+      {
+        "title": "Romeo and Juliet",
+        "text": "Romeo and Juliet is a tragedy written by William Shakespeare early in his career."
+      },
+      {
+        "title": "William Shakespeare",
+        "text": "William Shakespeare was an English playwright, poet, and actor."
+      }
+    ]
+  },
+  {
+    "qid": "hp58",
+    "difficulty": "hard",
+    "question": "What is the name of the sea that lies between the Italian Peninsula and the Balkan Peninsula?",
+    "gold_answer": "Adriatic Sea",
+    "context": [
+      {
+        "title": "Italian Peninsula",
+        "text": "The Italian Peninsula is a peninsula in Southern Europe."
+      },
+      {
+        "title": "Adriatic Sea",
+        "text": "The Adriatic Sea is a body of water separating the Italian Peninsula from the Balkan Peninsula."
+      }
+    ]
+  },
+  {
+    "qid": "hp59",
+    "difficulty": "medium",
+    "question": "Which bone is the longest and strongest in the human body?",
+    "gold_answer": "Femur",
+    "context": [
+      {
+        "title": "Human Skeleton",
+        "text": "The human skeleton consists of both individual and fused bones."
+      },
+      {
+        "title": "Femur",
+        "text": "The femur, or thigh bone, is the proximal bone of the hindlimb in tetrapod vertebrates."
+      }
+    ]
+  },
+  {
+    "qid": "hp60",
+    "difficulty": "easy",
+    "question": "What is the largest planet in our solar system?",
+    "gold_answer": "Jupiter",
+    "context": [
+      {
+        "title": "Solar System",
+        "text": "The Solar System is the gravitationally bound system of the Sun and the objects that orbit it."
+      },
+      {
+        "title": "Jupiter",
+        "text": "Jupiter is the fifth planet from the Sun and the largest in the Solar System."
+      }
+    ]
+  },
+  {
+    "qid": "hp61",
+    "difficulty": "hard",
+    "question": "What is the name of the treaty that ended World War I?",
+    "gold_answer": "Treaty of Versailles",
+    "context": [
+      {
+        "title": "World War I",
+        "text": "World War I was a global war originating in Europe that lasted from 1914 to 1918."
+      },
+      {
+        "title": "Treaty of Versailles",
+        "text": "The Treaty of Versailles was the most important of the peace treaties that brought World War I to an end."
+      }
+    ]
+  },
+  {
+    "qid": "hp62",
+    "difficulty": "medium",
+    "question": "What is the currency of the United Kingdom?",
+    "gold_answer": "Pound sterling",
+    "context": [
+      {
+        "title": "United Kingdom",
+        "text": "The UK is a sovereign country in North-Western Europe."
+      },
+      {
+        "title": "Pound sterling",
+        "text": "The pound sterling is the official currency of the United Kingdom."
+      }
+    ]
+  },
+  {
+    "qid": "hp63",
+    "difficulty": "easy",
+    "question": "Which country is the Taj Mahal located in?",
+    "gold_answer": "India",
+    "context": [
+      {
+        "title": "Taj Mahal",
+        "text": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna."
+      },
+      {
+        "title": "Agra",
+        "text": "Agra is a city in the Indian state of Uttar Pradesh, home to the Taj Mahal."
+      }
+    ]
+  },
+  {
+    "qid": "hp64",
+    "difficulty": "hard",
+    "question": "What is the name of the chemical process by which cells release energy from glucose?",
+    "gold_answer": "Cellular respiration",
+    "context": [
+      {
+        "title": "Glucose",
+        "text": "Glucose is a simple sugar with the molecular formula $C_6H_{12}O_6$."
+      },
+      {
+        "title": "Cellular respiration",
+        "text": "Cellular respiration is a set of metabolic reactions and processes that take place in the cells of organisms to convert biochemical energy from nutrients into ATP."
+      }
+    ]
+  },
+  {
+    "qid": "hp65",
+    "difficulty": "medium",
+    "question": "What is the capital of Canada?",
+    "gold_answer": "Ottawa",
+    "context": [
+      {
+        "title": "Canada",
+        "text": "Canada is a country in North America."
+      },
+      {
+        "title": "Ottawa",
+        "text": "Ottawa is the capital city of Canada."
+      }
+    ]
+  },
+  {
+    "qid": "hp66",
+    "difficulty": "easy",
+    "question": "Who painted the 'Mona Lisa'?",
+    "gold_answer": "Leonardo da Vinci",
+    "context": [
+      {
+        "title": "Mona Lisa",
+        "text": "The Mona Lisa is a half-length portrait painting by the Italian artist Leonardo da Vinci."
+      },
+      {
+        "title": "Leonardo da Vinci",
+        "text": "Leonardo da Vinci was an Italian polymath of the High Renaissance."
+      }
+    ]
+  },
+  {
+    "qid": "hp67",
+    "difficulty": "hard",
+    "question": "Which desert is the largest hot desert in the world?",
+    "gold_answer": "Sahara",
+    "context": [
+      {
+        "title": "Desert",
+        "text": "A desert is a barren area of landscape where little precipitation occurs."
+      },
+      {
+        "title": "Sahara",
+        "text": "The Sahara is a desert on the African continent and the largest hot desert in the world."
+      }
+    ]
+  },
+  {
+    "qid": "hp68",
+    "difficulty": "medium",
+    "question": "What is the hardest natural substance on Earth?",
+    "gold_answer": "Diamond",
+    "context": [
+      {
+        "title": "Substance",
+        "text": "A substance is a form of matter that has constant chemical composition and characteristic properties."
+      },
+      {
+        "title": "Diamond",
+        "text": "Diamond is a solid form of the element carbon and is the hardest natural substance known."
+      }
+    ]
+  },
+  {
+    "qid": "hp69",
+    "difficulty": "easy",
+    "question": "Which country is home to the Great Barrier Reef?",
+    "gold_answer": "Australia",
+    "context": [
+      {
+        "title": "Great Barrier Reef",
+        "text": "The Great Barrier Reef is the world's largest coral reef system."
+      },
+      {
+        "title": "Queensland",
+        "text": "The reef is located in the Coral Sea, off the coast of Queensland, Australia."
+      }
+    ]
+  },
+  {
+    "qid": "hp70",
+    "difficulty": "hard",
+    "question": "What was the name of the space mission that first landed humans on the Moon?",
+    "gold_answer": "Apollo 11",
+    "context": [
+      {
+        "title": "Moon landing",
+        "text": "The first human landing on the Moon occurred in July 1969."
+      },
+      {
+        "title": "Apollo 11",
+        "text": "Apollo 11 was the American spaceflight that first landed humans on the Moon."
+      }
+    ]
+  },
+  {
+    "qid": "hp71",
+    "difficulty": "medium",
+    "question": "What is the name of the scientist who developed the polio vaccine?",
+    "gold_answer": "Jonas Salk",
+    "context": [
+      {
+        "title": "Polio",
+        "text": "Polio is an infectious disease caused by the poliovirus."
+      },
+      {
+        "title": "Polio vaccine",
+        "text": "The first polio vaccine was developed by Jonas Salk and tested in 1952."
+      }
+    ]
+  },
+  {
+    "qid": "hp72",
+    "difficulty": "easy",
+    "question": "What is the smallest country in the world?",
+    "gold_answer": "Vatican City",
+    "context": [
+      {
+        "title": "Country",
+        "text": "A country is a distinct territorial body or political entity."
+      },
+      {
+        "title": "Vatican City",
+        "text": "Vatican City is the smallest state in the world by both area and population."
+      }
+    ]
+  },
+  {
+    "qid": "hp73",
+    "difficulty": "hard",
+    "question": "In which city was the first Olympic Games of the modern era held?",
+    "gold_answer": "Athens",
+    "context": [
+      {
+        "title": "Olympic Games",
+        "text": "The modern Olympic Games are leading international sporting events."
+      },
+      {
+        "title": "1896 Summer Olympics",
+        "text": "The 1896 Summer Olympics, the first modern Games, were held in Athens, Greece."
+      }
+    ]
+  },
+  {
+    "qid": "hp74",
+    "difficulty": "medium",
+    "question": "What is the chemical symbol for gold?",
+    "gold_answer": "Au",
+    "context": [
+      {
+        "title": "Gold",
+        "text": "Gold is a chemical element with the symbol Au and atomic number 79."
+      },
+      {
+        "title": "Au",
+        "text": "The symbol Au comes from the Latin word for gold, 'aurum'."
+      }
+    ]
+  },
+  {
+    "qid": "hp75",
+    "difficulty": "easy",
+    "question": "Which gas do humans need to breathe to survive?",
+    "gold_answer": "Oxygen",
+    "context": [
+      {
+        "title": "Respiration",
+        "text": "Human respiration involves the intake of oxygen and the release of carbon dioxide."
+      },
+      {
+        "title": "Oxygen",
+        "text": "Oxygen is essential for the survival of aerobic organisms, including humans."
+      }
+    ]
+  },
+  {
+    "qid": "hp76",
+    "difficulty": "hard",
+    "question": "What is the name of the epic poem attributed to the ancient Greek poet Homer about the fall of Troy?",
+    "gold_answer": "Iliad",
+    "context": [
+      {
+        "title": "Homer",
+        "text": "Homer is the semi-legendary author of the Iliad and the Odyssey."
+      },
+      {
+        "title": "Iliad",
+        "text": "The Iliad is an ancient Greek epic poem that tells the story of the Trojan War."
+      }
+    ]
+  },
+  {
+    "qid": "hp77",
+    "difficulty": "medium",
+    "question": "What is the primary currency used in the European Union?",
+    "gold_answer": "Euro",
+    "context": [
+      {
+        "title": "European Union",
+        "text": "The EU is a political and economic union of 27 member states."
+      },
+      {
+        "title": "Euro",
+        "text": "The euro is the official currency of 20 of the 27 member states of the EU."
+      }
+    ]
+  },
+  {
+    "qid": "hp78",
+    "difficulty": "easy",
+    "question": "Which planet is known as the 'Blue Planet'?",
+    "gold_answer": "Earth",
+    "context": [
+      {
+        "title": "Earth",
+        "text": "Earth is the third planet from the Sun and the only astronomical object known to harbor life."
+      },
+      {
+        "title": "Blue Planet",
+        "text": "Earth is often called the 'Blue Planet' due to its vast oceans."
+      }
+    ]
+  },
+  {
+    "qid": "hp79",
+    "difficulty": "hard",
+    "question": "Which architect designed the Guggenheim Museum in Bilbao, Spain?",
+    "gold_answer": "Frank Gehry",
+    "context": [
+      {
+        "title": "Guggenheim Museum Bilbao",
+        "text": "The Guggenheim Museum Bilbao is a museum of modern and contemporary art."
+      },
+      {
+        "title": "Frank Gehry",
+        "text": "Frank Gehry is a Canadian-born American architect who designed the Guggenheim Museum in Bilbao."
+      }
+    ]
+  },
+  {
+    "qid": "hp80",
+    "difficulty": "medium",
+    "question": "What is the capital of Australia?",
+    "gold_answer": "Canberra",
+    "context": [
+      {
+        "title": "Australia",
+        "text": "Australia is a sovereign country comprising the mainland of the Australian continent."
+      },
+      {
+        "title": "Canberra",
+        "text": "Canberra is the capital city of Australia."
+      }
+    ]
+  },
+  {
+    "qid": "hp81",
+    "difficulty": "easy",
+    "question": "What is the boiling point of water in degrees Celsius?",
+    "gold_answer": "100",
+    "context": [
+      {
+        "title": "Water",
+        "text": "Water is an inorganic, transparent, tasteless, odorless chemical substance."
+      },
+      {
+        "title": "Boiling point",
+        "text": "The boiling point of water is 100°C at standard atmospheric pressure."
+      }
+    ]
+  },
+  {
+    "qid": "hp82",
+    "difficulty": "hard",
+    "question": "Which explorer's crew completed the first voyage around the world?",
+    "gold_answer": "Ferdinand Magellan",
+    "context": [
+      {
+        "title": "Circumnavigation",
+        "text": "The first voyage around the world was completed by Juan Sebastián Elcano after the death of the expedition leader."
+      },
+      {
+        "title": "Ferdinand Magellan",
+        "text": "The expedition was originally led by Ferdinand Magellan, who died during the journey."
+      }
+    ]
+  },
+  {
+    "qid": "hp83",
+    "difficulty": "medium",
+    "question": "What is the name of the organ that pumps blood throughout the human body?",
+    "gold_answer": "Heart",
+    "context": [
+      {
+        "title": "Circulatory system",
+        "text": "The circulatory system is an organ system that permits blood to circulate."
+      },
+      {
+        "title": "Heart",
+        "text": "The heart is a muscular organ which pumps blood through the blood vessels."
+      }
+    ]
+  },
+  {
+    "qid": "hp84",
+    "difficulty": "easy",
+    "question": "Who is the author of the 'Harry Potter' series?",
+    "gold_answer": "J.K. Rowling",
+    "context": [
+      {
+        "title": "Harry Potter",
+        "text": "Harry Potter is a series of seven fantasy novels."
+      },
+      {
+        "title": "J.K. Rowling",
+        "text": "The Harry Potter series was written by the British author J.K. Rowling."
+      }
+    ]
+  },
+  {
+    "qid": "hp85",
+    "difficulty": "hard",
+    "question": "What is the name of the process by which a solid changes directly into a gas?",
+    "gold_answer": "Sublimation",
+    "context": [
+      {
+        "title": "Phase transition",
+        "text": "A phase transition is the transformation of a thermodynamic system from one state of matter to another."
+      },
+      {
+        "title": "Sublimation",
+        "text": "Sublimation is the transition of a substance directly from the solid to the gas state without passing through the liquid state."
+      }
+    ]
+  },
+  {
+    "qid": "hp86",
+    "difficulty": "medium",
+    "question": "What is the largest island in the world?",
+    "gold_answer": "Greenland",
+    "context": [
+      {
+        "title": "Island",
+        "text": "An island is any piece of sub-continental land that is surrounded by water."
+      },
+      {
+        "title": "Greenland",
+        "text": "Greenland is the world's largest island, located between the Arctic and Atlantic oceans."
+      }
+    ]
+  },
+  {
+    "qid": "hp87",
+    "difficulty": "easy",
+    "question": "What is the capital of Italy?",
+    "gold_answer": "Rome",
+    "context": [
+      {
+        "title": "Italy",
+        "text": "Italy is a country in Southern Europe."
+      },
+      {
+        "title": "Rome",
+        "text": "Rome is the capital city of Italy."
+      }
+    ]
+  },
+  {
+    "qid": "hp88",
+    "difficulty": "hard",
+    "question": "Which battle is often considered the turning point of the American Civil War?",
+    "gold_answer": "Battle of Gettysburg",
+    "context": [
+      {
+        "title": "American Civil War",
+        "text": "The American Civil War was fought between the North and the South from 1861 to 1865."
+      },
+      {
+        "title": "Battle of Gettysburg",
+        "text": "The Battle of Gettysburg is described as the war's turning point, ending the Confederate invasion of the North."
+      }
+    ]
+  },
+  {
+    "qid": "hp89",
+    "difficulty": "medium",
+    "question": "Which organ in the human body is responsible for filtering blood?",
+    "gold_answer": "Kidney",
+    "context": [
+      {
+        "title": "Excretory system",
+        "text": "The excretory system is a passive biological system that removes excess materials from the body fluids."
+      },
+      {
+        "title": "Kidney",
+        "text": "The kidneys are two reddish-brown bean-shaped organs that filter waste products from the blood."
+      }
+    ]
+  },
+  {
+    "qid": "hp90",
+    "difficulty": "easy",
+    "question": "What is the fastest land animal?",
+    "gold_answer": "Cheetah",
+    "context": [
+      {
+        "title": "Cheetah",
+        "text": "The cheetah is a large cat native to Africa and central Iran."
+      },
+      {
+        "title": "Speed of animals",
+        "text": "The cheetah is the fastest land animal, capable of reaching speeds of 80 to 128 km/h."
+      }
+    ]
+  },
+  {
+    "qid": "hp91",
+    "difficulty": "hard",
+    "question": "Which musical period followed the Baroque period?",
+    "gold_answer": "Classical period",
+    "context": [
+      {
+        "title": "Baroque music",
+        "text": "Baroque music is a period of Western art music from approximately 1600 to 1750."
+      },
+      {
+        "title": "Classical period music",
+        "text": "The Classical period followed the Baroque period, spanning from roughly 1730 to 1820."
+      }
+    ]
+  },
+  {
+    "qid": "hp92",
+    "difficulty": "medium",
+    "question": "What is the name of the largest moon of Saturn?",
+    "gold_answer": "Titan",
+    "context": [
+      {
+        "title": "Saturn",
+        "text": "Saturn has 146 known moons."
+      },
+      {
+        "title": "Titan",
+        "text": "Titan is the largest moon of Saturn and the second-largest natural satellite in the Solar System."
+      }
+    ]
+  },
+  {
+    "qid": "hp93",
+    "difficulty": "easy",
+    "question": "Who is the protagonist of the 'Sherlock Holmes' stories?",
+    "gold_answer": "Sherlock Holmes",
+    "context": [
+      {
+        "title": "Sherlock Holmes",
+        "text": "Sherlock Holmes is a fictional detective created by British author Arthur Conan Doyle."
+      },
+      {
+        "title": "Arthur Conan Doyle",
+        "text": "Arthur Conan Doyle wrote many stories featuring the detective Sherlock Holmes."
+      }
+    ]
+  },
+  {
+    "qid": "hp94",
+    "difficulty": "hard",
+    "question": "What is the name of the chemical bond where electrons are shared between atoms?",
+    "gold_answer": "Covalent bond",
+    "context": [
+      {
+        "title": "Chemical bond",
+        "text": "A chemical bond is a lasting attraction between atoms."
+      },
+      {
+        "title": "Covalent bond",
+        "text": "A covalent bond is a chemical bond that involves the sharing of electron pairs between atoms."
+      }
+    ]
+  },
+  {
+    "qid": "hp95",
+    "difficulty": "medium",
+    "question": "What is the capital of Germany?",
+    "gold_answer": "Berlin",
+    "context": [
+      {
+        "title": "Germany",
+        "text": "Germany is a country in Central Europe."
+      },
+      {
+        "title": "Berlin",
+        "text": "Berlin is the capital and largest city of Germany."
+      }
+    ]
+  },
+  {
+    "qid": "hp96",
+    "difficulty": "easy",
+    "question": "Which planet is closest to the Sun?",
+    "gold_answer": "Mercury",
+    "context": [
+      {
+        "title": "Sun",
+        "text": "The Sun is the star at the center of the Solar System."
+      },
+      {
+        "title": "Mercury",
+        "text": "Mercury is the smallest and closest planet to the Sun in the Solar System."
+      }
+    ]
+  },
+  {
+    "qid": "hp97",
+    "difficulty": "hard",
+    "question": "What is the term for a word that is spelled the same backwards and forwards?",
+    "gold_answer": "Palindrome",
+    "context": [
+      {
+        "title": "Wordplay",
+        "text": "Linguistics studies various forms of word structures."
+      },
+      {
+        "title": "Palindrome",
+        "text": "A palindrome is a word, number, or phrase that reads the same backward as forward."
+      }
+    ]
+  },
+  {
+    "qid": "hp98",
+    "difficulty": "medium",
+    "question": "What is the name of the galaxy that contains our Solar System?",
+    "gold_answer": "Milky Way",
+    "context": [
+      {
+        "title": "Solar System",
+        "text": "Our Solar System is located within a galaxy."
+      },
+      {
+        "title": "Milky Way",
+        "text": "The Milky Way is the galaxy that includes our Solar System."
+      }
+    ]
+  },
+  {
+    "qid": "hp99",
+    "difficulty": "easy",
+    "question": "Who was the leader of the Civil Rights Movement in the US who was assassinated in 1968?",
+    "gold_answer": "Martin Luther King Jr.",
+    "context": [
+      {
+        "title": "Civil Rights Movement",
+        "text": "The Civil Rights Movement was a struggle for social justice in the United States."
+      },
+      {
+        "title": "Martin Luther King Jr.",
+        "text": "Martin Luther King Jr. was a prominent leader in the movement until his assassination in 1968."
+      }
+    ]
+  },
+  {
+    "qid": "hp100",
+    "difficulty": "hard",
+    "question": "What is the name of the mountain range that contains Mount Kilimanjaro?",
+    "gold_answer": "Eastern Rift",
+    "context": [
+      {
+        "title": "Mount Kilimanjaro",
+        "text": "Mount Kilimanjaro is a dormant volcano in Tanzania."
+      },
+      {
+        "title": "Tanzania Mountains",
+        "text": "Mount Kilimanjaro is part of the Eastern Rift Mountains."
+      }
+    ]
+  },
+  {
+    "qid": "hp101",
+    "difficulty": "medium",
+    "question": "What is the name of the gas that makes up the majority of the Sun?",
+    "gold_answer": "Hydrogen",
+    "context": [
+      {
+        "title": "The Sun",
+        "text": "The Sun is a nearly perfect sphere of hot plasma."
+      },
+      {
+        "title": "Composition of the Sun",
+        "text": "Hydrogen makes up about 73% of the Sun's mass."
+      }
+    ]
+  },
+  {
+    "qid": "hp102",
+    "difficulty": "easy",
+    "question": "What is the capital of France?",
+    "gold_answer": "Paris",
+    "context": [
+      {
+        "title": "France",
+        "text": "France is a country in Western Europe."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is the capital of France."
+      }
+    ]
+  },
+  {
+    "qid": "hp103",
+    "difficulty": "hard",
+    "question": "Which Greek philosopher was the teacher of Alexander the Great?",
+    "gold_answer": "Aristotle",
+    "context": [
+      {
+        "title": "Alexander the Great",
+        "text": "Alexander the Great was a king of the ancient Greek kingdom of Macedon."
+      },
+      {
+        "title": "Aristotle",
+        "text": "Aristotle was an ancient Greek philosopher who tutored Alexander the Great."
+      }
+    ]
+  },
+  {
+    "qid": "hp104",
+    "difficulty": "medium",
+    "question": "What is the most common element in the universe?",
+    "gold_answer": "Hydrogen",
+    "context": [
+      {
+        "title": "Universe",
+        "text": "The universe contains all of space and time."
+      },
+      {
+        "title": "Elements in the universe",
+        "text": "Hydrogen is the most abundant chemical element in the universe."
+      }
+    ]
+  },
+  {
+    "qid": "hp105",
+    "difficulty": "easy",
+    "question": "What is the capital of Spain?",
+    "gold_answer": "Madrid",
+    "context": [
+      {
+        "title": "Spain",
+        "text": "Spain is a country located in Southwestern Europe."
+      },
+      {
+        "title": "Madrid",
+        "text": "Madrid is the capital and largest city of Spain."
+      }
+    ]
+  },
+  {
+    "qid": "hp106",
+    "difficulty": "hard",
+    "question": "Which part of the human brain is primarily responsible for balance and coordination?",
+    "gold_answer": "Cerebellum",
+    "context": [
+      {
+        "title": "Human Brain",
+        "text": "The brain is the central organ of the human nervous system."
+      },
+      {
+        "title": "Cerebellum",
+        "text": "The cerebellum is a major feature of the hindbrain and plays an important role in motor control."
+      }
+    ]
+  },
+  {
+    "qid": "hp107",
+    "difficulty": "medium",
+    "question": "What is the name of the largest ocean on Earth?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Oceans",
+        "text": "The Earth has five major oceans."
+      },
+      {
+        "title": "Pacific Ocean",
+        "text": "The Pacific Ocean covers about one-third of the Earth's surface."
+      }
+    ]
+  },
+  {
+    "qid": "hp108",
+    "difficulty": "easy",
+    "question": "Who wrote 'The Odyssey'?",
+    "gold_answer": "Homer",
+    "context": [
+      {
+        "title": "The Odyssey",
+        "text": "The Odyssey is one of two major ancient Greek epic poems."
+      },
+      {
+        "title": "Homer",
+        "text": "The Odyssey is traditionally attributed to the ancient Greek poet Homer."
+      }
+    ]
+  }
+]
